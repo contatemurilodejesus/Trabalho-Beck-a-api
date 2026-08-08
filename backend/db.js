@@ -13,3 +13,4 @@ conexao.connect((erro) => {
     }
     console.log(" Banco de dados conectado com sucesso")
 });
+module.exports = conexao;

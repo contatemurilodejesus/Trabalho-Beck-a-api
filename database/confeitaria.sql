@@ -1,4 +1,4 @@
-
+/*
 create database confeitaria_db;
 use confeitaria_db;
 
@@ -12,5 +12,5 @@ insert into clientes (nome,email) values
 ("Murilo de Jesus Costa", "murilo@gmail.com.br"),
 ("Carlos de Mausebios Costa", "MAUSEBIO@gmail.com.br");
 
-select*from clientes;
+select*from clientes;*/
 
