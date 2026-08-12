@@ -110,6 +110,6 @@ Integração com MySQL
 Organização da arquitetura
 Atualização da documentação
 👥 Integrantes da Equipe
-Murilo de Jesus Costa
+Murilo de Jesus Costa , Jhenyfer Oliveira, Lucas Nogueira
 [Nome do Integrante Instituição: SENAI Candeias
 Professor Orientador: Adalberto Santana
